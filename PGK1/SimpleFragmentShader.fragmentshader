@@ -1,0 +1,16 @@
+#version 330 core
+
+// Ouput data
+out vec3 color;
+
+uniform float red;
+uniform float green;
+uniform float blue;
+
+void main()
+{
+
+	// Output color = red 
+	color = vec3(red, green , blue);
+
+}

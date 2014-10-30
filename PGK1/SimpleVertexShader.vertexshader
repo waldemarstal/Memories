@@ -1,0 +1,17 @@
+#version 330 core
+
+// Input vertex data, different for all executions of this shader.
+layout(location = 0) in vec3 vertexPosition_modelspace;
+
+uniform float temp;
+uniform float posX;
+uniform float posY;
+uniform float rotationX;
+
+void main() {
+	gl_Position.x = vertexPosition_modelspace.x * temp * rotationX + posX;
+	gl_Position.y = vertexPosition_modelspace.y * temp + posY;
+	gl_Position.z = vertexPosition_modelspace.z;
+    gl_Position.w = 1.0;
+
+}

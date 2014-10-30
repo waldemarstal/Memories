@@ -1,0 +1,81 @@
+﻿Kompilacja rozpoczęła się 2014-10-29 18:14:59.
+     1>Projekt „E:\_VII_semestr\PGK\pracownia_2\PGK2\PGK1\PGK1.vcxproj” w węźle 2 (elementy docelowe: rebuild).
+     1>_PrepareForClean:
+         Usuwanie pliku „Debug\PGK1.lastbuildstate”.
+       InitializeBuildStatus:
+         Trwa tworzenie „Debug\PGK1.unsuccessfulbuild”, ponieważ określono "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\include\common\shader.cpp games.cpp tutorial02.cpp
+         tutorial02.cpp
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(22): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(23): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(30): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(30): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(31): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(32): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(33): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(34): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(34): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(35): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(35): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(36): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(36): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(37): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(37): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(37): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(100): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(107): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(114): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(121): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(245): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(246): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(247): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(252): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(253): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(256): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(257): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(267): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(268): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(269): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(273): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(274): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(283): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(284): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(290): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(310): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(325): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(326): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(327): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(354): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(355): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(358): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\tutorial02.cpp(359): warning C4305: '=' : truncation from 'double' to 'float'
+         games.cpp
+     1>e:\_vii_semestr\pgk\pracownia_2\pgk2\pgk1\games.cpp(25): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         shader.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\PGK1.exe.embed.manifest.res" Debug\PGK1_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\_VII_semestr\PGK\pracownia_2\PGK2\Debug\PGK1.exe" /INCREMENTAL /NOLOGO opengl32.lib glew32.lib glfw3dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\PGK1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\_VII_semestr\PGK\pracownia_2\PGK2\Debug\PGK1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\_VII_semestr\PGK\pracownia_2\PGK2\Debug\PGK1.lib" /MACHINE:X86 Debug\PGK1.exe.embed.manifest.res
+         Debug\shader.obj
+         Debug\games.obj
+         Debug\tutorial02.obj
+       Manifest:
+         Usuwanie pliku „Debug\PGK1.exe.embed.manifest”.
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\PGK1.exe.embed.manifest" /manifest Debug\PGK1.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\PGK1.exe.embed.manifest.res" Debug\PGK1_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\_VII_semestr\PGK\pracownia_2\PGK2\Debug\PGK1.exe" /INCREMENTAL /NOLOGO opengl32.lib glew32.lib glfw3dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\PGK1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\_VII_semestr\PGK\pracownia_2\PGK2\Debug\PGK1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\_VII_semestr\PGK\pracownia_2\PGK2\Debug\PGK1.lib" /MACHINE:X86 Debug\PGK1.exe.embed.manifest.res
+         Debug\shader.obj
+         Debug\games.obj
+         Debug\tutorial02.obj
+         PGK1.vcxproj -> E:\_VII_semestr\PGK\pracownia_2\PGK2\Debug\PGK1.exe
+       FinalizeBuildStatus:
+         Usuwanie pliku „Debug\PGK1.unsuccessfulbuild”.
+         Modyfikowanie „Debug\PGK1.lastbuildstate”.
+     1>Kompilowanie projektu „E:\_VII_semestr\PGK\pracownia_2\PGK2\PGK1\PGK1.vcxproj” wykonane (elementy docelowe: rebuild).
+
+Kompilacja powiodła się.
+
+Czas, który upłynął: 00:00:02.76
